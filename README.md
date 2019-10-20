@@ -13,7 +13,7 @@ w(i,u) = [i= 1]; a(u;Xℓ)=y(1)u.
 
 
 
-<img src="1nn.png" width="350" title="1nn">
+<img src="1nn.png" width="500" title="1nn">
 
 
 ## Алгоритм k ближайших соседей (kNN).
