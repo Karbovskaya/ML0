@@ -47,7 +47,7 @@ kNN — один из простейших алгоритмов классифи
 ## Линии уровня
  * 1.Если признаки коррелированы, то матрица <img src="https://github.com/Karbovskaya/ML0/blob/master/Pictures/gif.gif" width="15" > не диагональна и линии уровня имеют форму эллипсоидов, оси которых повернуты ( направлены вдоль собственных векторов матрицы <img src="https://github.com/Karbovskaya/ML0/blob/master/Pictures/gif.gif" width="15" > ) относительно исходной системы координат.
  * 2.Если признаки имеют одинаковые дисперсии <img src="https://github.com/Karbovskaya/ML0/blob/master/Pictures/gif(2).gif" width="15" >
- * 3.Если признаки некоррелированы, <img src="https://https://github.com/Karbovskaya/ML0/raw/master/Pictures/gif (1).gif" width="15" >, то линии уровня плотности распределения имеют форму эллипсоидов с центром equation)
+ * 3.Если признаки некоррелированы, <img src="https://github.com/Karbovskaya/ML0/raw/master/Pictures/gif (1).gif" width="15" >, то линии уровня плотности распределения имеют форму эллипсоидов с центром equation)
 
 
 
