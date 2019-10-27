@@ -49,6 +49,6 @@ kNN — один из простейших алгоритмов классифи
  * 2.Если признаки имеют одинаковые дисперсии <img src="https://github.com/Karbovskaya/ML0/raw/master/Pictures/gif (2).gif" width="100" >
  * 3.Если признаки некоррелированы, <img src="https://github.com/Karbovskaya/ML0/raw/master/Pictures/gif (1).gif" width="120" >, то линии уровня плотности распределения имеют форму эллипсоидов с центром <img src="https://github.com/Karbovskaya/ML0/raw/master/Pictures/gif (4).gif" width="15" >)
 
-С помощью ортогонального преобразования <img src="https://github.com/Karbovskaya/ML0/raw/master/Pictures/gif (3).gif" width="160" > . - ортогональные собственные векторы матрицы <img src="https://github.com/Karbovskaya/ML0/raw/master/Pictures/gif.gif" width="15" >, можно перейти к третьему случаю.
+С помощью ортогонального преобразования <img src="https://github.com/Karbovskaya/ML0/raw/master/Pictures/gif (3).gif" width="200" > . - ортогональные собственные векторы матрицы <img src="https://github.com/Karbovskaya/ML0/raw/master/Pictures/gif.gif" width="15" >, можно перейти к третьему случаю.
 
 
