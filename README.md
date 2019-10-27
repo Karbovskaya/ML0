@@ -59,5 +59,5 @@ kNN — один из простейших алгоритмов классифи
 Признаки <img src="https://github.com/Karbovskaya/ML0/raw/master/Pictures/gif (10).gif" width="100" >. являются независимыми случайными величинами. Следовательно, функции правдоподобия классов представимы в виде:
 
 <img src="https://github.com/Karbovskaya/ML0/raw/master/Pictures/gif (11).gif" width="250" >.
-где <img src="https://github.com/Karbovskaya/ML0/raw/master/Pictures/gif (12).gif" width="35" >. — плотность распределения значений j-го признака для класса y.
+где <img src="https://github.com/Karbovskaya/ML0/raw/master/Pictures/gif (12).gif" width="40" >. — плотность распределения значений j-го признака для класса y.
 
