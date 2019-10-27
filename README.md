@@ -52,3 +52,6 @@ kNN — один из простейших алгоритмов классифи
 С помощью ортогонального преобразования <img src="https://github.com/Karbovskaya/ML0/raw/master/Pictures/gif (3).gif" width="200" > . - ортогональные собственные векторы матрицы <img src="https://github.com/Karbovskaya/ML0/raw/master/Pictures/gif.gif" width="15" >, можно перейти к третьему случаю.
 
 
+## Наивный байесовский классификатор
+
+
