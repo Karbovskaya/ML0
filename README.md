@@ -237,15 +237,15 @@ line <- function(m,A)
 
 1.Если признаки некорелированы, то линия уровня плотности распределения имеют форму элипсоидов.
 
-![raspr](https://raw.githubusercontent.com/Karbovskaya/ML0/blob/master/Pictures/2.png) 
+![raspr](https://raw.githubusercontent.com/Karbovskaya/ML0/master/Pictures/2.png) 
 
 2.Если признаки имеют одинаковые дисперсии, то элипсоиды являются сферами.
 
-![raspr](https://raw.githubusercontent.com/Karbovskaya/ML0/blob/master/Pictures/1.png) 
+![raspr](https://raw.githubusercontent.com/Karbovskaya/ML0/master/Pictures/1.png) 
 
 3.Если признаки корелированы, то матрица не диагональна и линии уровня имеют форму элипсоидов, оси которых повернуты относительно исходной системы координат.
 
-![raspr](https://raw.githubusercontent.com/Karbovskaya/ML0/blob/master/Pictures.png) 
+![raspr](https://raw.githubusercontent.com/Karbovskaya/ML0/master/Pictures/3.png) 
 
 ## Наивный байесовский классификатор
 Допустим, что объекты <img src="https://github.com/Karbovskaya/ML0/raw/master/Pictures/gif (5).gif" width="50" > описываются n признаками <img src="https://github.com/Karbovskaya/ML0/raw/master/Pictures/gif (6).gif" width="150" >. Обозначим через <img src="https://github.com/Karbovskaya/ML0/raw/master/Pictures/gif (7).gif" width="110" >
@@ -276,11 +276,11 @@ naiv <- function(x, mu, sigma, lamda, P){
 ### Пример
 Имеется выборка 
 
-![raspr](https://raw.githubusercontent.com/Karbovskaya/ML0/blob/master/Pictures/naiv.png)
+![raspr](https://raw.githubusercontent.com/Karbovskaya/ML0/master/Pictures/naiv.png)
 
 Построим карту классификации для наивного байесовского алгоритма 
 
-![raspr](https://raw.githubusercontent.com/Karbovskaya/ML0/blob/master/Pictures/map_naiv.png)
+![raspr](https://raw.githubusercontent.com/Karbovskaya/ML0/master/Pictures/map_naiv.png)
 
 Преимущества:
 * Простота реализации 
