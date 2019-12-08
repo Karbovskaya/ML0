@@ -309,10 +309,17 @@ naiv <- function(x, mu, sigma, lamda, P){
 Рассмотрим равные ковариационные матрицы классов. Нам хватить оценить одну ковариационную матрицу по всем обьектам обучающей выборке.
 Оценка вычисляется по формуле:
 
+<img src="https://github.com/Karbovskaya/ML0/blob/master/Pictures/CodeCogsEqn.gif" width="250" >.
+
 Наша разделяющая поверхность линейная.
 Тогда подстановочный алгоритм принимает вид:
+
+<img src="https://github.com/Karbovskaya/ML0/blob/master/Pictures/CodeCogsEqn%20(1).gif" width="250" >.
 
 Алгоритм называется линейным дискриминантом Фишера.
 Формула разделяющей плоскости:
 
-Нахождения коэффиуиентов:
+<img src="https://github.com/Karbovskaya/ML0/blob/master/Pictures/CodeCogsEqn%20(3).gif" width="250" >.
+
+Нахождения коэффициентов:
+<img src="https://github.com/Karbovskaya/ML0/blob/master/Pictures/CodeCogsEqn%20(2).gif" width="250" >.
