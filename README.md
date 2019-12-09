@@ -80,7 +80,7 @@ rectangle <- function(r,h){
 ## Ядро Гаусса
 
 ![raspr](https://raw.githubusercontent.com/Karbovskaya/ML0/master/Pictures/Loo_gaus.png)
-![raspr](https://raw.githubusercontent.com/Karbovskaya/ML0/master/Pictures/map_gaus.png)
+![raspr](https://raw.githubusercontent.com/Karbovskaya/ML0/blob/master/Pictures/Снимок экрана от 2019-12-09 15-33-45.png)
  
 Реализация функции
 
