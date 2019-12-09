@@ -63,7 +63,8 @@ h - шириной окна , u - играет ту же роль, что и ч�
 ## Ядро Прямоугольное
 
 ![raspr](https://raw.githubusercontent.com/Karbovskaya/ML0/master/Pictures/Loo_rect.png)
-![raspr](https://raw.githubusercontent.com/Karbovskaya/ML0/master/Pictures/map_rect.png)
+<img src="https://github.com/Karbovskaya/ML0/blob/master/Pictures/Снимок экрана от 2019-12-09 15-33-45.png" width="400" >
+
  
 Реализация функции
 ```
@@ -80,7 +81,7 @@ rectangle <- function(r,h){
 ## Ядро Гаусса
 
 ![raspr](https://raw.githubusercontent.com/Karbovskaya/ML0/master/Pictures/Loo_gaus.png)
-![raspr](https://raw.githubusercontent.com/Karbovskaya/ML0/blob/master/Pictures/Снимок экрана от 2019-12-09 15-33-45.png)
+![raspr](https://raw.githubusercontent.com/)
  
 Реализация функции
 
