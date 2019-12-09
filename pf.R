@@ -75,7 +75,7 @@ drawPotentials <- function(xl, classes, potentials, h, colors) {
 
 }
 
-colors <- c("setosa" = "red", "versicolor" = "green", "virginica" = "blue", "0" = "NA")
+colors <- c("setosa" = "purple", "versicolor" = "green", "virginica" = "red", "0" = "NA")
 xl <- iris[, 3:5]
 class <- iris[, 5]
 h <- 1
@@ -87,7 +87,7 @@ pot <- potentials(xl,class,n,h,error)
 drawPotentials(xl[,1:2], class, pot, h, colors)
 
 text <- paste("Карта классификации для Гауссовского ядра\n при h = ", 1)
-colors <- c("setosa" = "red", "versicolor" = "green3","virginica" = "blue")
+colors <- c("setosa" = "purple", "versicolor" = "green","virginica" = "red")
 plot(iris[, 3:4], pch = 21, bg = colors[iris$Species],col = colors[iris$Species],main="Карта классификации для Гауссовского ядра")
 
 for( i in seq(0.8,7,by=0.1)){
