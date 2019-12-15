@@ -42,7 +42,7 @@ xy2 <- cbind(x2,2)
   
 xl <- rbind(xy1,xy2)
 
-colors <- c("blue", "green3")
+colors <- c("purple", "red")
 plot(xl[,1],xl[,2], pch = 21,main = "Наивный байесовский классификатор", col = colors[xl[,3]], asp = 1, bg=colors[xl[,3]])
   
 mu1 <- get_mu(x1)
