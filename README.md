@@ -323,4 +323,6 @@ naiv <- function(x, mu, sigma, lamda, P){
 Нахождения коэффициентов:
 <img src="https://github.com/Karbovskaya/ML0/blob/master/Pictures/CodeCogsEqn%20(2).gif" width="250" >.
 
+<img src="https://github.com/Karbovskaya/ML0/blob/master/Pictures/Снимок экрана от 2019-12-16 15-15-59.png" width="600" >.
+
 # Линейные алгоритмы классификации
