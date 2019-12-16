@@ -297,7 +297,7 @@ naiv <- function(x, mu, sigma, lamda, P){
 
 Построим карту классификации для наивного байесовского алгоритма 
 
-![raspr](https://raw.githubusercontent.com/Karbovskaya/ML0/master/Pictures/map_naiv.png)
+<img src="https://github.com/Karbovskaya/ML0/blob/master/Pictures/Снимок экрана от 2019-12-16 14-42-12.png" width="600" >
 
 Преимущества:
 * Простота реализации 
