@@ -293,7 +293,7 @@ naiv <- function(x, mu, sigma, lamda, P){
 ### Пример
 Имеется выборка 
 
-![raspr](https://raw.githubusercontent.com/Karbovskaya/ML0/master/Pictures/naiv.png)
+<img src="https://github.com/Karbovskaya/ML0/blob/master/Pictures/Снимок экрана от 2019-12-16 14-34-50.png" width="600" >
 
 Построим карту классификации для наивного байесовского алгоритма 
 
