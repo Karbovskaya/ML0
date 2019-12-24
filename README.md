@@ -343,3 +343,7 @@ naiv <- function(x, mu, sigma, lamda, P){
 <img src="https://github.com/Karbovskaya/ML0/blob/master/Pictures/26gif.gif" width="160" >
 Обновление весов:
 <img src="https://github.com/Karbovskaya/ML0/blob/master/Pictures/88gif.gif" width="160" >
+
+<img src="https://github.com/Karbovskaya/ML0/blob/master/Pictures/Mm5ls_bxjDQ.jpg" width="600" >
+
+
