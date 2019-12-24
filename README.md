@@ -326,7 +326,7 @@ naiv <- function(x, mu, sigma, lamda, P){
 <img src="https://github.com/Karbovskaya/ML0/blob/master/Pictures/Снимок экрана от 2019-12-16 15-15-59.png" width="600" >.
 
 # Линейные алгоритмы классификации
-Будем рассматривать задачу классификации, которая содержит два класса <img src="https://github.com/Karbovskaya/ML0/blob/master/Pictures/gif%2050%20(1).gif" width="250" >
+Будем рассматривать задачу классификации, которая содержит два класса <img src="https://github.com/Karbovskaya/ML0/blob/master/Pictures/gif%2050%20(1).gif" width="150" >
 . Алгоритм имеет следующий вид , где w-вектор параметров.
 задает разделяющую поверхность.
 Функция - дискриминантная функция.
