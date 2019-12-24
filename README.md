@@ -328,9 +328,9 @@ naiv <- function(x, mu, sigma, lamda, P){
 # Линейные алгоритмы классификации
 Будем рассматривать задачу классификации, которая содержит два класса <img src="https://github.com/Karbovskaya/ML0/blob/master/Pictures/gif%2050%20(1).gif" width="100" >
 . Алгоритм имеет следующий вид:
-<img src="https://github.com/Karbovskaya/ML0/blob/master/Pictures/gif%2050%20(2).gif" width="150" >
+<img src="https://github.com/Karbovskaya/ML0/blob/master/Pictures/gif%2050%20(2).gif" width="120" >
 , где w-вектор параметров.
-<img src="https://github.com/Karbovskaya/ML0/blob/master/Pictures/gif%2051.gif" width="1700" > задает разделяющую поверхность.
-Функция <img src="https://github.com/Karbovskaya/ML0/blob/master/Pictures/gif%2052.gif" width="150" > - дискриминантная функция.
-Если <img src="https://github.com/Karbovskaya/ML0/blob/master/Pictures/gif50.gif" width="150" >
+<img src="https://github.com/Karbovskaya/ML0/blob/master/Pictures/gif%2051.gif" width="130" > задает разделяющую поверхность.
+Функция <img src="https://github.com/Karbovskaya/ML0/blob/master/Pictures/gif%2052.gif" width="120" > - дискриминантная функция.
+Если <img src="https://github.com/Karbovskaya/ML0/blob/master/Pictures/gif50.gif" width="120" >
 , тогда алгоритм относит обьект к классу +1, иначе к классу -1.
