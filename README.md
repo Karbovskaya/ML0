@@ -331,15 +331,15 @@ naiv <- function(x, mu, sigma, lamda, P){
 . Алгоритм имеет следующий вид:
 <img src="https://github.com/Karbovskaya/ML0/blob/master/Pictures/gif%2050%20(2).gif" width="140" >
 , где w-вектор параметров.
-<img src="https://github.com/Karbovskaya/ML0/blob/master/Pictures/gif%2051.gif" width="110" > задает разделяющую поверхность.
-Функция <img src="https://github.com/Karbovskaya/ML0/blob/master/Pictures/gif%2052.gif" width="110" > - дискриминантная функция.
-Если <img src="https://github.com/Karbovskaya/ML0/blob/master/Pictures/gif50.gif" width="110" >
+<img src="https://github.com/Karbovskaya/ML0/blob/master/Pictures/gif%2051.gif" width="100" > задает разделяющую поверхность.
+Функция <img src="https://github.com/Karbovskaya/ML0/blob/master/Pictures/gif%2052.gif" width="100" > - дискриминантная функция.
+Если <img src="https://github.com/Karbovskaya/ML0/blob/master/Pictures/gif50.gif" width="100" >
 , тогда алгоритм относит обьект к классу +1, иначе к классу -1.
 
 ## Адаптивны линейный элемент
 Адаптивны линейный элемент (ADALINE) - линейный алгоритм классификации, в котором используется квадратичная функция потерь.
 Пусть дана обучающая выборка: множество входных значений X и множество выходящих значений Y, такие что каждому входу xi соответствует yi - выход, i = 1..m. Необходимо по этим данным построить ADALINE, которая допускает наименьшее количество ошибок на этой обучающей выборке. Обучение ADALINE заключается в подборе "наилучших" значений вектора весов w. Какие значение весов лучше определяет функционал потерь.
 Квадратичная функция потерь: 
-<img src="https://github.com/Karbovskaya/ML0/blob/master/Pictures/26gif.gif" width="120" >
+<img src="https://github.com/Karbovskaya/ML0/blob/master/Pictures/26gif.gif" width="160" >
 Обновление весов:
-<img src="https://github.com/Karbovskaya/ML0/blob/master/Pictures/88gif.gif" width="120" >
+<img src="https://github.com/Karbovskaya/ML0/blob/master/Pictures/88gif.gif" width="160" >
