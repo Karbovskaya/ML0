@@ -350,6 +350,6 @@ naiv <- function(x, mu, sigma, lamda, P){
 <img src="https://github.com/Karbovskaya/ML0/blob/master/Pictures/Mm5ls_bxjDQ.jpg" width="600" >
 
 ## Персептрон Розенблатта
-Персептрон Розенблатта (Правило Хэбба) принадлежит к линейным алгоритмам классификации. Используется кусочно-линейная функция потерь <img src="https://github.com/Karbovskaya/ML0/blob/master/Pictures/77gif.gif" width="160" >, 
+Персептрон Розенблатта (Правило Хэбба) принадлежит к линейным алгоритмам классификации. Используется кусочно-линейная функция потерь <img src="https://github.com/Karbovskaya/ML0/blob/master/Pictures/77gif.gif" width="180" >, 
 а так же правило Хэбба:
-<img src="https://github.com/Karbovskaya/ML0/blob/master/Pictures/76gif.gif" width="160" >
+<img src="https://github.com/Karbovskaya/ML0/blob/master/Pictures/76gif.gif" width="170" >
